@@ -1,2 +1,7 @@
-# demo-estudio-garriga-asociados
-Demo web para Estudio Garriga &amp; Asociados — diseñada por eterlab.
+# Estudio Garriga & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
